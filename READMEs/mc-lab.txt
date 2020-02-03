@@ -1,0 +1,35 @@
+
+
+Readme for MC-lab by Fan|Sheik
+
+
+
+This map is licensed under CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+
+For questions, concerns, or to simply give feedback, please email me at sheik@inexor.org
+
+
+MC-lab was originally created in January - February of 2014. It was then rebuilt from scratch in October 2014 - January 2015. You can see the original map at http://sauerworld.org/forum/index.php?topic=96.0
+
+
+The Lab for Mind Control. Scientists are trying to brainwash and control you! Fight your the battle to protect what is yours.
+
+
+Much thanks goes to:
+
+ Everyone who helped on the original map, especially Jay_Red for spending countless hours hanging out on the server while I worked, with testing and suggestions.
+
+ Everyone who commented on quadropolis.us and sauerworld.org.
+
+ Philip "philipk" Klevestav for creating these awesome textures.
+
+ Lee “eihrul” Salzman and Wouter “Aardappel” van Oortmerssen for the Cube2 Engine.
+
+ The Inexor team for including my maps :).
+
+
+Enjoy playing!
+
+
+-Sheik
